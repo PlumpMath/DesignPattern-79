@@ -7,6 +7,7 @@ public class Resume {
 	private String timeArea;
 	private String company;
 	
+	
 	public Resume(String name){
 		this.name = name;
 	}
