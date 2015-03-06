@@ -9,6 +9,7 @@ public class Secretary {
 	private String action;
 	
 	public void Attach(StockObserver observer){
+		
 		observers.add(observer);
 	}
 	
