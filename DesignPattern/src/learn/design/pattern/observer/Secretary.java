@@ -10,7 +10,7 @@ public class Secretary {
 	
 	public void Attach(StockObserver observer){
 		
-		observers.add(observer);
+//		observers.add(observer);
 	}
 	
 	public void Notify(){
