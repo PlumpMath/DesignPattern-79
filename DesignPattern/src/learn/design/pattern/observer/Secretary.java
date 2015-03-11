@@ -19,9 +19,11 @@ public class Secretary {
 		}
 	}
 	
+	public void setSecretaryAction(String value){
+		action = value;
+	}
+	
 	public String SecretaryAction(){
-//		action = va
 		return action;
-		
 	}
 }
